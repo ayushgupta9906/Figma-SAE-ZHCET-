@@ -6,3 +6,6 @@ Figma links for the UI/UX of SAE ZHCET WEBSITE
 [Link2](https://www.figma.com/file/TYCvK1hOH3M3N67cDDPkfY/Untitled?type=design&node-id=0%3A1&mode=design&t=b8UqCgrJcSkTqBJy-1)
 
 
+![Project Logo](https://example.com/images/logo.png](https://github.com/ayushgupta9906/Figma-Projects/blob/main/Frame-1.png)https://github.com/ayushgupta9906/Figma-Projects/blob/main/Frame-1.png)
+
+
